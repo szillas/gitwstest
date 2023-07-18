@@ -1,2 +1,2 @@
 Hello! Git workshop.
-Cloned once
+One more Hello!
